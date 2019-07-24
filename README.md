@@ -19,8 +19,8 @@
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+* `PORT` -  3000
+* `MONGODB_URI` - mongodb/20717/class09
 
 #### Running the app
 * `npm start`
