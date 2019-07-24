@@ -20,7 +20,7 @@
 ### Setup
 #### `.env` requirements
 * `PORT` -  3000
-* `MONGODB_URI` - mongodb/20717/class09
+* `MONGODB_URI` - mongodb/20717/class08
 
 #### Running the app
 * `npm start`
