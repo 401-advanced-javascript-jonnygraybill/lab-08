@@ -2,7 +2,6 @@
 const fs = require('fs');
 const util = require('util');
 const readdir = util.promisify(fs.readdir);
-
 const modelsFolder = `${__dirname}/../models`;
 
 const load = (req,res,next) => {

@@ -15,18 +15,29 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
+    "mongoose-schema-jsonschema": "^1.2.1",
+    "require-directory": "^2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-jonnygraybill/lab-08.git"
+  },
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-jonnygraybill/lab-08/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-jonnygraybill/lab-08#readme",
+  "devDependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
     "express-swagger-generator": "^1.1.15",
     "jest": "^24.8.0",
-    "mongodb-memory-server": "^5.1.5",
-    "mongoose": "^5.6.2",
-    "mongoose-schema-jsonschema": "^1.2.1",
+    "mongodb-memory-server": "^5.1.8",
+    "mongoose": "^5.6.6",
     "morgan": "^1.9.1",
-    "require-directory": "^2.1.1",
+    "supergoose": "^0.2.6",
     "supertest": "^4.0.2",
     "uuid": "^3.3.2"
   }
